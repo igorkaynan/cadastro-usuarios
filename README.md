@@ -29,14 +29,12 @@ Front-end (React):
 1. Configuração do Back-end (Node.js)
     - Baixe o projeto e extraia os arquivos para uma pasta local.
     - Navegue até a pasta do back-end (geralmente chamada de server ou backend).
-    - Instale as dependências do Node.js com o comando:
-    - npm install
-    - npm start
+    - Instale as dependências do Node.js.
     - O servidor estará rodando em http://localhost:5000 ou a porta configurada no arquivo server.js.
+      
 2. Configuração do Front-end (React)
     - Navegue até a pasta do front-end (geralmente chamada de client ou frontend).
-    - Instale as dependências do React com o comando:
-    - npm install
+    - Instale as dependências do React 
 
 2. **Abrir o projeto:**
 
