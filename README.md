@@ -15,7 +15,7 @@ Front-end (React):
     - Interface interativa que se comunica com a API Node.js para enviar e receber dados.
     - Utilização de Hooks (como useState e useEffect) para gerenciamento de estado e chamadas assíncronas à API.
     - Roteamento com React Router para navegação entre diferentes páginas (caso necessário).
-    - Design responsivo com CSS ou Styled-components.
+    - Design responsivo com CSS.
 
 ## Tecnologias Utilizadas
 
