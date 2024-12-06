@@ -19,7 +19,7 @@ Front-end (React):
 
 ## Tecnologias Utilizadas
 
-- React
+- REACT
 - NODE.JS
 
 ## Como Instalar e Usar
