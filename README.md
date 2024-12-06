@@ -1,5 +1,5 @@
 
-# Projeto Full-Stack Node.js e React
+# Projeto Node.js e React
 
 Este projeto é desenvolvido em **REACT** e **NODE.JS**. Este é um projeto Full-Stack que integra Node.js no back-end e React no front-end. O objetivo é criar uma aplicação web interativa e dinâmica, com uma API construída em Node.js (utilizando Express) para gerenciar dados e uma interface de usuário em React para interagir com esses dados de forma eficiente.
 
