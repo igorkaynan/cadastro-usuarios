@@ -47,7 +47,7 @@ Aqui está uma imagem ilustrativa de como a interface do projeto pode se parecer
 
 ![Projeto Full-Stack Node.js e React]![cadastro_react](https://github.com/user-attachments/assets/9a2e9665-2ccb-49a6-b98d-1c9ca4fde2c6)
 
-> **Nota:** Nota: Certifique-se de que o React, NODE.JS e NPM estão corretamente instalados na sua máquina para garantir o funcionamento do projeto.
+> **Nota:** Nota: Certifique-se de que o React, NODE.JS estão corretamente instalados na sua máquina para garantir o funcionamento do projeto.
 
 
 ## Créditos
