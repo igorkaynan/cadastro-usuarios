@@ -30,7 +30,7 @@ Front-end (React):
     - Baixe o projeto e extraia os arquivos para uma pasta local.
     - Navegue até a pasta do back-end (geralmente chamada de server ou backend).
     - Instale as dependências do Node.js.
-    - O servidor estará rodando em http://localhost:5000 ou a porta configurada no arquivo server.js.
+    - O servidor estará rodando em http://localhost:4000 ou a porta configurada no arquivo server.js.
       
 2. Configuração do Front-end (React)
     - Navegue até a pasta do front-end (geralmente chamada de client ou frontend).
@@ -38,15 +38,14 @@ Front-end (React):
 
 2. **Abrir o projeto:**
 
-    - npm start
-    - O front-end estará rodando em http://localhost:3000 ou a porta configurada no package.json do React.
+    - O front-end estará rodando em http://localhost:4000 ou a porta configurada no package.json do React.
     - Verifique a comunicação entre o React e o Node.js. As requisições do front-end para o back-end serão feitas automaticamente quando a API for chamada.
 
 ## Exemplo Visual
 
 Aqui está uma imagem ilustrativa de como a interface do projeto pode se parecer com a comunicação entre o React (front-end) e o Node.js (back-end):
 
-![Projeto Full-Stack Node.js e React]
+![Projeto Full-Stack Node.js e React]![cadastro_react](https://github.com/user-attachments/assets/9a2e9665-2ccb-49a6-b98d-1c9ca4fde2c6)
 
 > **Nota:** Nota: Certifique-se de que o React, NODE.JS e NPM estão corretamente instalados na sua máquina para garantir o funcionamento do projeto.
 
